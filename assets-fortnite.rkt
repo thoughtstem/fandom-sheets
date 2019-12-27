@@ -2,4 +2,4 @@
 
 (require define-assets-from)
 
-(define-assets-from "assets/starwars")
+(define-assets-from "assets/fortnite")

@@ -1,5 +1,5 @@
 #lang racket
 
-(require ts-kata-util/assets/main)
+(require define-assets-from)
 
 (define-assets-from "assets/mario")
