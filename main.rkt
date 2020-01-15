@@ -6,7 +6,6 @@
          "./assets-avengers.rkt"
          "./assets-starwars.rkt"
          "./assets-minecraft.rkt"
-         "./assets-pokemon.rkt"
          "./assets-fortnite.rkt"
          )
 
@@ -15,7 +14,6 @@
          (all-from-out "./assets-avengers.rkt")
          (all-from-out "./assets-starwars.rkt")
          (all-from-out "./assets-minecraft.rkt")
-         (all-from-out "./assets-pokemon.rkt")
          (all-from-out "./assets-fortnite.rkt")
          )
         
